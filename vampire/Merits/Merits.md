@@ -16,3 +16,8 @@ A character is not required to begin play with her entire Merit capacity deplete
 * [Abyssal Horror](<./Merits/Abyssal Horror>)
 * [Acute Sense](<./Merits/Acute Sense>)
 * [Adaptive](<./Merits/Adaptive>)
+* [Addictive Blood](<./Merits/Addictive Blood>)
+* [Additional Common Discipline](<./Merits/Additional Common Discipline>)
+* [Additional Uncommon Discipline](<./Merits/Additional Uncommon Discipline>)
+* [All The Best Toys](<./Merits/All The Best Toys>)
+* [Ambidextrous](<./Merits/Ambidextrous>)
