@@ -21,3 +21,8 @@ A character is not required to begin play with her entire Merit capacity deplete
 * [Additional Uncommon Discipline](<./Merits/Additional Uncommon Discipline>)
 * [All The Best Toys](<./Merits/All The Best Toys>)
 * [Ambidextrous](<./Merits/Ambidextrous>)
+* [Angelic Visage](<./Merits/Angelic Visage>)
+* [Antiquities](<./Merits/Antiquities>)
+* [Aquatic Predator](<./Merits/Aquatic Predator>)
+* [Arcane](<./Merits/Arcane>)
+* [Arcane Branding](<./Merits/Arcane Branding>)
