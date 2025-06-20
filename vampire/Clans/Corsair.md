@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 10.1
 sidebar_label: 'Lasombra - Corsairs'
 hide_table_of_contents: true
 ---
