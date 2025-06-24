@@ -29,7 +29,7 @@ In recent nights, the Lhiannan, having struggled for decades against the defores
 
 All Lhiannan are infused with the essence of a nature spirit, causing them to have a sense of inhumanity that even humans become vaguely uncomfortable around. They suffer a -2 penalty against anyone attempting to discover their true nature with Auspex or equivalent powers.
 
-Additionally, Lhiannan are uncomfortable in urban settings, gaining a cumulative -1 penalty on all test pools for each night they rest in an urban environment until they sleep one night in widerness again.
+Additionally, Lhiannan are uncomfortable in urban settings, gaining a cumulative -1 penalty on all test pools for each night they rest in an urban environment until they sleep one night in wilderness again.
 
 # Clan Merits
 
