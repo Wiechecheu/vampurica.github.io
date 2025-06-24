@@ -15,7 +15,7 @@ hide_table_of_contents: true
 # Lhiannan
     #### Druids, Savages, Pagans
 
-Where the majority of the vampires in the world trace their lineage back to the third generation antideluvians, so long as they believe in the Book of Nod, the Lhiannan are an exception. The Lhiannan believe themselves to be descendants of the Crone, a mysterious figure who is said to have interacted with Caine in the Book of Nod. Many other vampires believe them to actually be an ancient bloodline of Gangrel, but it's hard to be sure.
+Where the majority of the vampires in the world trace their lineage back to the third generation antediluvians, so long as they believe in the Book of Nod, the Lhiannan are an exception. The Lhiannan believe themselves to be descendants of the Crone, a mysterious figure who is said to have interacted with Caine in the Book of Nod. Many other vampires believe them to actually be an ancient bloodline of Gangrel, but it's hard to be sure.
 
 What is certain is that the Lhiannan are a matriarchal druidic vampire clan, who are extremely territorial to the area that they settle in. From their chosen land, they wage war against the engine of modernization, very rarely choosing to gift the embrace those who are sympathetic to their cause.
 
