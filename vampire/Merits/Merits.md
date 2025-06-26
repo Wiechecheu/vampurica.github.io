@@ -26,3 +26,8 @@ A character is not required to begin play with her entire Merit capacity deplete
 * [Aquatic Predator](<./Merits/Aquatic Predator>)
 * [Arcane](<./Merits/Arcane>)
 * [Arcane Branding](<./Merits/Arcane Branding>)
+* [Architect of the Tower](<./Merits/Architect of the Tower>)
+* [Ardent Companion](<./Merits/Ardent Companion>)
+* [Art Imitates Life](<./Merits/Art Imitates Life>)
+* [Artist's Blessing](<./Merits/Artists Blessing>)
+* [Aura of Command](<./Merits/Aura of Command>)
